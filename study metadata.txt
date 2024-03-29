@@ -15,3 +15,5 @@ We get avg from participants
 -120 = Two attention Checks
 ↓
 2 x 60 = Distinct Tasks.
+
+900 = 100 samples from a dataset * three datasets * 3 responses per sample = 900
