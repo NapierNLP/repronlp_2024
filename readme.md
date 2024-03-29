@@ -1,1 +1,1 @@
-Identifiable informstion has been replaced with 'XX'
+Identifiable information has been replaced with 'XX'
