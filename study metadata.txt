@@ -1,0 +1,17 @@
+60 Distinct Tasks
+3 Responses Per distinct task
+= 180 Rows / Participant Results
+
+32 Paraphrase Questions (Inc 2 Attention Checks)
+
+180 x 32 = 5760 Evaluations
+
+5760 ÷ 3 = 1920
+↑
+We get avg from participants
+
+1920 - 120 = 1800 final
+
+-120 = Two attention Checks
+↓
+2 x 60 = Distinct Tasks.
