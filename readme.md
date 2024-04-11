@@ -10,6 +10,8 @@ The analysis folder consists of:
 1. `Chart.py and Chart-original.py` - Used to generate the graphs used in the paper publishing our results.
 2. `analysis-withdecrem.py` - This is the analysis code used to calculate the relative preference percentage for each system.
 3. `full_data.csv` - This is a copy of the raw data for use with the nalysis-withdecrem.py
+4. `type1_analysis_cv.py` - This is the code used to calculate the coefficient of variation (CV) ajusted for small sampled, See [paper here](https://aclanthology.org/2022.cl-4.21/) and [code here](https://github.com/asbelz/coeff-var).
+5. `type2_analysis.py` - This is the code used to calculate Pearson's r and Spearman's rho.
 
 The data extraction folder consists of:
 1. `database.db` - This is the raw database file extracted from the [webapp we used](https://github.com/nlgcat/reprohum-prolific-webapp) to host the reproduction.
