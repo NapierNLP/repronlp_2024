@@ -2,7 +2,9 @@
 
 This is the analysis code, data extraction code, and raw result data for the Edinburgh Napier University lab in the 2024 ReproNLP Challenge. 
 
-This study was reproduces [Data-to-text Generation with Entity Modeling](https://aclanthology.org/P19-1195) (Puduppully et al., ACL 2019).
+This study reproduces [Data-to-text Generation with Entity Modeling](https://aclanthology.org/P19-1195) (Puduppully et al., ACL 2019).
+
+We filled the Human Evaluation Datasheet (HEDs) which can be found in `napiernlp-reprohum2024-datasheet.json` or see the [ReproHum2024 Central HEDs Repo](https://github.com/nlp-heds/repronlp2024).
 
 The analysis folder consists of:
 1. `Chart.py and Chart-original.py` - Used to generate the graphs used in the paper publishing our results.
