@@ -1,0 +1,1137 @@
+{
+    "heds-criteria-criterion-response_elicitation-response_aggregation": {
+        "data": {
+            "Accuracy against input data": "Average"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-affiliation": {
+        "data": {
+            "": "Edinburgh Napier University"
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-name": {
+        "data": {
+            "": "Lewis Watson"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-10": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-2": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "2. Check-boxes"
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-affiliation": {
+        "data": {
+            "": "Edinburgh Napier University"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-7": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-system-input_types-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-5": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-4": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "4. evaluators are excluded if they fail quality checks (often or badly enough)"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-description": {
+        "data": {
+            "": "The experiment did not exclude participants who did less than any number of HITs for the study. For attention checks the distractor system should always perform 'worse' than any other system, if workers get these examples wrong then their results for the hit will be re run and excluded."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluation carried out by evaluators at a place of their own choosing, e.g. online, using a paper form, etc."
+        }
+    },
+    "heds-ethics-review_body": {
+        "data": {
+            "": "No, Ethical approval not yet finalised."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-effect_size_method": {
+        "data": {
+            "Accuracy against input data": "None"
+        },
+        "control": {}
+    },
+    "heds-system-input_types-12": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-1": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "1. Intrinsic"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-other_text": {
+        "data": {
+            "Accuracy against input data": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-other_text": {
+        "data": {
+            "Accuracy against input data": "Dropdown Menu"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-description": {
+        "data": {
+            "": "Amazon Mechanical Turkers"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-number_of_system_outputs": {
+        "data": {
+            "": "60 tasks total. \n32 paraphrases rated per task. Two of which are attention check. There are 5 systems. (HRQ-VAE, Separator, Latent BoW, VAE, and Gold).\n "
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-2": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluators are required to be native speakers of the language they evaluate."
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-9": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-2": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-4": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "4. other (please describe)"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-task_description": {
+        "data": {
+            "Accuracy against input data": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_name": {
+        "data": {
+            "Accuracy against input data": "Fluency, Meaning, Dissimilarity"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-3": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-7": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement_score": {
+        "data": {
+            "Accuracy against input data": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-2": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-system-tasks-9": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-other_text": {
+        "data": {
+            "": "Workers are offered the ability to contact to ask questions at any time via email."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. evaluators do not include any of the authors"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_place_of_choosing": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-link": {
+        "data": {
+            "": "https://drive.google.com/drive/folders/1hF-22ITuYxWeR56dK2r8OXWcRfTiw1zm"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion": {
+        "data": {},
+        "control": {
+            "Accuracy against input data": true
+        },
+        "text": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-other_text": {
+        "data": {
+            "Accuracy against input data": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-3": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-system-output_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-8": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-3": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-3": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-2": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-number_of_evaluators": {
+        "data": {
+            "": "131"
+        },
+        "control": {}
+    },
+    "heds-system-input_types-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. text: sentence"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-other_text": {
+        "data": {
+            "Accuracy against input data": "2"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-3": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "3. neither of the above (please describe)"
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-method": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-4": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-characteristics": {
+        "data": {
+            "": "Crowd workers were required to have an approval rating of >96% and a minimum of 5000 previously completed tasks. Workers region is also restricted to US and UK."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-1": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "1. yes"
+        }
+    },
+    "heds-system-tasks-13": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "13. paraphrasing/lossless simplification"
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-2": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "2. Quality of output relative to the input"
+        }
+    },
+    "heds-ethics-impact_assessments": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-1": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "1. Discrete"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_definiiton": {
+        "data": {
+            "Accuracy against input data": "\"Which system output is the most fluent and grammatical?\nTo what extent is the meaning expressed in the original sentence preserved in the rewritten version, with no additional information added?\nDoes the rewritten version use different words or phrasing to the original? You should choose the system that uses the most different words or word order.\""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-3": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "3. Both form and content of output"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-other_text": {
+        "data": {
+            "Accuracy against input data": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. automatic quality checking methods are used during/post evaluation"
+        }
+    },
+    "heds-system-output_types-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-5": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-8": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-3": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "3. manual quality checking methods are used during/post evaluation"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-6": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-input_types-13": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement_score": {
+        "data": {
+            "Accuracy against input data": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. non-experts"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-verbatim_question": {
+        "data": {
+            "Accuracy against input data": "Instructions\nIn this task you will read roughly thirty examples of sentences and two paraphrases created by a computer program. The program aims to rewrite the sentence so that it means the same thing, but using different words and/or different word order.\n\nPlease read all the sentences carefully, this should take you about 20 minutes (if you do the task very quickly your HIT will be rejected).\n\nYou will be asked to choose which system performs better, for three aspects of the paraphrases:\n\nWhich system output is the most fluent and grammatical?\nTo what extent is the meaning expressed in the original sentence preserved in the rewritten version, with no additional information added?\nDoes the rewritten version use different words or phrasing to the original? You should choose the system that uses the most different words or word order.\nRemember that you are being asked to rate the system, not the original.\n\nSome of the sentences only have small differences! Be careful to choose the one that is most different for the dissimilarity category. If the control samples are not answered correctly then we will assume that you have answered at random and reject the HIT.\n\nA small number of samples may have two choices that are *exactly* the same - in these cases please pick an answer at random, this will not cause the HIT to be rejected."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. not previously known to authors"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. some evaluations are excluded because of failed quality checks"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. paid (monetary compensation)"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-2": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "2. Subjective"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-4": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-other_text": {
+        "data": {
+            "Accuracy against input data": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-2": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "2. Goodness"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-other_text": {
+        "data": {
+            "": "Information not provided."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-2": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "2. Relative"
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-name": {
+        "data": {
+            "": "Dimitra Gkatzia"
+        },
+        "control": {}
+    },
+    "heds-ethics-special_category_data": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-input_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-list_or_range": {
+        "data": {
+            "Accuracy against input data": "Better/Worse"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-recruitment_method": {
+        "data": {
+            "": "Prolific crowdsourcing platform - https://www.prolific.com/"
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-email": {
+        "data": {
+            "": "d.gkatzia@napier.ac.uk"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-3": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "3. by manual, arbitrary selection"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-training_practice": {
+        "data": {
+            "": "Workers are given two explained examples in the interface for each HIT before seeing the 32 tasks."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-3": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-paper_and_resources-paper-link": {
+        "data": {
+            "": "ReproHum: pre-experiment record"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-other_text": {
+        "data": {
+            "Accuracy against input data": ""
+        },
+        "control": {}
+    },
+    "heds-ethics-personal_data": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-2": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "2. no"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-other_text": {
+        "data": {
+            "Accuracy against input data": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-collection_method": {
+        "data": {
+            "": "Prolific"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-other_text": {
+        "data": {
+            "Accuracy against input data": "krippendorff's alpha"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-description": {
+        "data": {
+            "": "Evaluators were given a list of 30 sentences as well as two paraphrases which are then compared for Meaning, Dissimilarity, and Fluency."
+        },
+        "control": {}
+    },
+    "heds-system-input_types-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. no"
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-output_types-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. text: sentence"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-resources-links": {
+        "data": {
+            "": "https://drive.google.com/drive/folders/1e2YwP7VueYgKNM2sY8HlymdRwftcH1te\nhttps://drive.google.com/drive/folders/1sUYJMvmAjFW0NVz_M9BVN9VjYRZI1erm"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-other_text": {
+        "data": {
+            "Accuracy against input data": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-value": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-3": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-2": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-3": {
+        "data": {
+            "Accuracy against input data": true
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": "3. relative quality estimation (including ranking)"
+        }
+    },
+    "heds-paper_and_resources-paper-experiment_identification": {
+        "data": {
+            "": "https://aclanthology.org/2022.acl-long.178/ - Original Paper being replicated.\nHuman Evaluation (end of page 7). Section 5.3."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-other_text": {
+        "data": {
+            "Accuracy against input data": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-script": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-1": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-11": {
+        "data": {
+            "Accuracy against input data": false
+        },
+        "control": {},
+        "text": {
+            "Accuracy against input data": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-email": {
+        "data": {
+            "": "l.watson@napier.ac.uk"
+        },
+        "control": {}
+    }
+}
